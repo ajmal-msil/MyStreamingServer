@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "yZGaN6Su6KmeiYpUGQpkPKfoiSnV5q/GDKVuU2rIqXJVg6kypgNnpLtYjR37xVbOXneggBHcrYR3yZncwMu7kg==",
+  "success": true,
+  "projectFilePath": "/home/ajmal/MyStreamingServer/MyStreamingServer.csproj",
+  "expectedPackageFiles": [
+    "/home/ajmal/.nuget/packages/messagepack/2.1.90/messagepack.2.1.90.nupkg.sha512",
+    "/home/ajmal/.nuget/packages/messagepack.annotations/2.1.90/messagepack.annotations.2.1.90.nupkg.sha512",
+    "/home/ajmal/.nuget/packages/microsoft.aspnetcore.connections.abstractions/6.0.3/microsoft.aspnetcore.connections.abstractions.6.0.3.nupkg.sha512",
+    "/home/ajmal/.nuget/packages/microsoft.aspnetcore.signalr.common/6.0.3/microsoft.aspnetcore.signalr.common.6.0.3.nupkg.sha512",
+    "/home/ajmal/.nuget/packages/microsoft.aspnetcore.signalr.protocols.messagepack/6.0.3/microsoft.aspnetcore.signalr.protocols.messagepack.6.0.3.nupkg.sha512",
+    "/home/ajmal/.nuget/packages/microsoft.bcl.asyncinterfaces/1.0.0/microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "/home/ajmal/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/home/ajmal/.nuget/packages/microsoft.extensions.features/6.0.3/microsoft.extensions.features.6.0.3.nupkg.sha512",
+    "/home/ajmal/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "/home/ajmal/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/home/ajmal/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/home/ajmal/.nuget/packages/system.io.pipelines/6.0.2/system.io.pipelines.6.0.2.nupkg.sha512",
+    "/home/ajmal/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/home/ajmal/.nuget/packages/system.reflection.emit/4.6.0/system.reflection.emit.4.6.0.nupkg.sha512",
+    "/home/ajmal/.nuget/packages/system.reflection.emit.lightweight/4.6.0/system.reflection.emit.lightweight.4.6.0.nupkg.sha512",
+    "/home/ajmal/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/home/ajmal/.nuget/packages/system.threading.tasks.extensions/4.5.3/system.threading.tasks.extensions.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

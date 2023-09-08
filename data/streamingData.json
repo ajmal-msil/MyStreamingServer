@@ -1,0 +1,80 @@
+{"StreamingData": [{
+  "data": {
+    "OI": 0.00,
+    "OIChngPer": 0.00,
+    "ttv": 0.00,
+    "atp": 0.00,
+    "chng": -144.90,
+    "chngPer": -0.74,
+    "close": 19526.55,
+    "high": 19537.65,
+    "lcl": 0.00,
+    "low": 19296.45,
+    "ltp": 19381.65,
+    "ltq": 0,
+    "ltt": "03 Aug 2023, 17:30:01",
+    "open": 19463.75,
+    "symbol": "-1_NSE",
+    "ucl": 0.00,
+    "vol": 0,
+    "yHigh": 0.00,
+    "yLow": 0.00,
+    "askPrice": 0.00,
+    "bidPrice": 0.00
+  },
+  "streaming_type": "quote"
+},
+{
+  "data": {
+    "OI": 0.00,
+    "OIChngPer": 0.00,
+    "ttv": 0.00,
+    "atp": 0.00,
+    "chng": 14.35,
+    "chngPer": 0.13,
+    "close": 10643.20,
+    "high": 10696.55,
+    "lcl": 0.00,
+    "low": 10581.90,
+    "ltp": 10657.55,
+    "ltq": 0,
+    "ltt": "03 Aug 2023, 17:30:01",
+    "open": 10628.20,
+    "symbol": "-4_NSE",
+    "ucl": 0.00,
+    "vol": 0,
+    "yHigh": 0.00,
+    "yLow": 0.00,
+    "askPrice": 0.00,
+    "bidPrice": 0.00
+  },
+  "streaming_type": "quote"
+},
+{
+  "data": {
+    "OI": 0.00,
+    "OIChngPer": 0.00,
+    "ttv": 0.00,
+    "atp": 0.00,
+    "chng": 93.45,
+    "chngPer": 0.25,
+    "close": 37232.70,
+    "high": 37408.00,
+    "lcl": 0.00,
+    "low": 37100.85,
+    "ltp": 37326.15,
+    "ltq": 0,
+    "ltt": "03 Aug 2023, 17:30:01",
+    "open": 37206.70,
+    "symbol": "-88_NSE",
+    "ucl": 0.00,
+    "vol": 0,
+    "yHigh": 0.00,
+    "yLow": 0.00,
+    "askPrice": 0.00,
+    "bidPrice": 0.00
+  },
+  "streaming_type": "quote"
+}
+]
+}

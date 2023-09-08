@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "86b9DyCOtQt1/5JgJytqFGmvMMp10h3E8Dgidwz+hAo=",
+  "Source": "MyStreamingServer",
+  "BasePath": "_content/MyStreamingServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
